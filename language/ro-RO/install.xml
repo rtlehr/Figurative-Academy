@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.7" client="site" type="language" method="upgrade">
+	<name>Româna (ro-RO)</name>
+	<tag>ro-RO</tag>
+	<version>3.7.3</version>
+	<creationDate>05-07-2017</creationDate>
+	<author>Horia Negura - Quanta</author>
+	<authorEmail>fakemoth@gmail.com</authorEmail>
+	<authorUrl>www.quanta-group.ro</authorUrl>
+	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Joomla! 3.7 Romanian (ro-RO) Website Language Pack - Version 3.7.3.1</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">ro-RO.com_ajax.ini</filename>
+	</files>
+	<params />
+</extension>

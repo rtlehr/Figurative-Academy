@@ -1,0 +1,19 @@
+css:
+  -
+    location: ''
+    inline: ".figurativeContent\n{\nposition:relative;\ntop:-125px;\nz-index:150;\npadding:0 0 !important;\n-webkit-box-shadow: 6px 6px 16px 0px rgba(0,0,0,0.3);\n-moz-box-shadow: 6px 6px 16px 0px rgba(0,0,0,0.3);\nbox-shadow: 6px 6px 16px 0px rgba(0,0,0,0.3);\nborder: thin #666666 solid;\n}"
+    extra: {  }
+    priority: '0'
+    name: figurativeContent
+  -
+    location: ''
+    inline: ".figurativeContainer{\nbackground:#F8F8FF;\n}"
+    extra: {  }
+    priority: '0'
+    name: figurativeContainer
+  -
+    location: ''
+    inline: "#g-navigation\n{\n     z-index:200;\n}"
+    extra: {  }
+    priority: '0'
+    name: g-navigation

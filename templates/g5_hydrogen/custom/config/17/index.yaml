@@ -1,0 +1,67 @@
+name: '17'
+timestamp: 1510971407
+version: 7
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1510971407
+positions:
+  header: Header
+  breadcrumbs: Breadcrumbs
+  footer: Footer
+sections:
+  header: Header
+  navigation: Navigation
+  main: Main
+  footer: Footer
+  offcanvas: Offcanvas
+particles:
+  logo:
+    logo-7716: Logo
+  position:
+    position-position-4000: Header
+    position-position-6457: Breadcrumbs
+    position-position-4738: Footer
+  menu:
+    menu-3227: Menu
+  messages:
+    system-messages-7517: 'System Messages'
+  content:
+    system-content-6749: 'Page Content'
+  copyright:
+    copyright-5067: Copyright
+  spacer:
+    spacer-1349: Spacer
+  branding:
+    branding-3098: Branding
+  mobile-menu:
+    mobile-menu-5248: Mobile-menu
+inherit:
+  default:
+    header: header
+    logo-4521: logo-4521
+    position-header: position-header
+    navigation: navigation
+    menu-4600: menu-4600
+    main: main
+    position-breadcrumbs: position-breadcrumbs
+    system-messages-8321: system-messages-8321
+    system-content-5702: system-content-5702
+    footer: footer
+    position-footer: position-footer
+    copyright-5280: copyright-5280
+    spacer-6279: spacer-6279
+    branding-3319: branding-3319
+    offcanvas: offcanvas
+    mobile-menu-3721: mobile-menu-3721
+    logo-7716: logo-4521
+    position-position-4000: position-header
+    menu-3227: menu-4600
+    position-position-6457: position-breadcrumbs
+    system-messages-7517: system-messages-8321
+    system-content-6749: system-content-5702
+    position-position-4738: position-footer
+    copyright-5067: copyright-5280
+    spacer-1349: spacer-6279
+    branding-3098: branding-3319
+    mobile-menu-5248: mobile-menu-3721

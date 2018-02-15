@@ -1,0 +1,7 @@
+css:
+  -
+    location: /assets/css/templateBase.css
+    inline: ''
+    extra: {  }
+    priority: '0'
+    name: templateBase.css
