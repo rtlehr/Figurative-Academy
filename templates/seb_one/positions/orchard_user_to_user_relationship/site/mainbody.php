@@ -2,6 +2,8 @@
 
 //TEMPLATE: orchard_user_to_user_relationship / site / mainbody
 
+//just a test
+
 defined('_JEXEC') or die;
 
 ?>
